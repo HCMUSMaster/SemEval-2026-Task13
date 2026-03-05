@@ -1,0 +1,12 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git remote -v$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^git ls-tree -lr HEAD$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

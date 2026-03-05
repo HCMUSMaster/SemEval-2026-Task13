@@ -201,6 +201,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Competition datasets (too large for GitHub)
+datasets/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
